@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  /* font-size: italic; */
+  background-color: #3748c9;
+  font-size: 40px;
+}
+.loading {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vh;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.big {
+  background-color: rgb(243, 183, 220);
+}
+.big .infooter {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.title {
+  background-color: rgb(240, 194, 234);
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.copy {
+  font-style: italic;
+  color: black;
+  font-size: 30px;
+}
