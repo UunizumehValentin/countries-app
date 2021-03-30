@@ -1,5 +1,5 @@
 import React from "react";
-import { PushSpinner, SpiralSpinner } from "react-spinners-kit";
+import { SpiralSpinner } from "react-spinners-kit";
 function Loading() {
   return (
     <section className="loading">
